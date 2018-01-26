@@ -1,6 +1,10 @@
 ###############
 ##### NTG #####
 ###############
+PROOF OF CONCEPT 1/26/18
+###############
+## NOT FINAL ##
+#### 0.0.3 ####
 
 import requests
 import wget
